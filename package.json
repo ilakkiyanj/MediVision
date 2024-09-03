@@ -14,7 +14,7 @@
     "react-dom": "latest"
   },
   "devDependencies": {
-    "gh-pages": "^4.0.0"  // Make sure to install the latest version
+    "gh-pages": "^4.0.0"
   },
   "homepage": "https://medivision.github.io/REPO"
 }
